@@ -37,20 +37,21 @@
 <a href="https://wa.me/+201156376500" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hannora-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 
 
-<!-- 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdul-ghaffar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-A-hannora&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-</a> -->
+<a href="https://komarev.com/ghpvc/?username=yousef-A-hannora&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousef-A-hannora&style=for-the-badge">
+</a> 
