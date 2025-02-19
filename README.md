@@ -31,7 +31,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/yousef-hannora/" target="_blank">
-<img src="https://img.shields.io/badge/-Yousef%20Hannora-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Yousef%20Hannora-0077B5?style=for-the-badge&logo=[LinkedIn](https://simpleicons.org/)&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/+201156376500" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hannora-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
