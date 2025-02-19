@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/-Yousef%20Hannora-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/+201156376500" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hannora-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/+201156376500" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hannora-25D366?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 <!-- 
