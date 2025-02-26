@@ -7,8 +7,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p style="text-align:center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+MERN+stack;Coding+with+LOVE+%E2%9D%A4)](https://git.io/typing-svg)
-
+</p>
 
 
 - 🏢 **Suez University - Faculty of Computers and Information**
